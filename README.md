@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA, MongoDB, Backend Development**
 
-- 💬 Ask me about **Website and MEARN**
+- 💬 Ask me about **Website and MERN**
 
 - 📫 How to reach me **utkarshyadav405097@gmail.com**
 
